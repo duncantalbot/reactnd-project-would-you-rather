@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.tab .ui.tabular.menu .item {
+  flex: 1 1 auto;
+  background: none #f6f6f6;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-top-width: 1px;
+  border-color: #d4d4d5;
+}
+.tab .ui.tabular.menu .active.item {
+  background: none #fff;
+}
